@@ -1,0 +1,64 @@
+.flor{
+
+    height: 500px;
+    width: 500px;
+
+    content:10px;
+    padding: 10px 5px 15px 20px;  
+    border-color: rgb(21, 21, 7)  15px;
+    border-style: solid 10px;
+    border: double 50px rgb(206, 220, 185);
+  
+    
+
+    background-image: url(img/tipos-de-flores-amor-perfeito.webp);
+    
+    box-shadow: inset 26px 5px 23px 33px;
+   
+    background-size: cover;
+   
+   
+
+      padding: 20px; border: groove 50px black ;
+
+       margin: auto;
+   
+       margin-top: 210px;
+
+ 
+
+  
+  
+
+
+    }
+
+    p{
+
+
+        padding-left: 755px; 
+
+        font-style: italic ;
+
+        font-size: 70px;
+
+        font-weight: bold ;
+
+        color: rgb(255, 0, 136);
+
+       
+
+       
+
+
+
+
+    }
+    
+
+
+
+
+
+
+
